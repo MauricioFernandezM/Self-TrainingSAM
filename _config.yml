@@ -1,0 +1,9 @@
+theme: jekyll-theme-minimal
+title: "SAM 2-Driven Self-Training for Mammogram Segmentation"
+description: "Zero-Shot Mask Generation via Pseudo-Video. Research paper website."
+logo: /assets/images/fig1_example_preprocessing.png
+
+github:
+  repository_url: https://github.com/MauricioFernandezM/Self-TrainingSAM
+  owner_name: "Mauricio Fernandez M. et al."
+  owner_url: https://github.com/MauricioFernandezM
