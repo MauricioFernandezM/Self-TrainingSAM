@@ -4,13 +4,15 @@
 
 *<sup>1</sup>School of Computer Science, Central South University, Changsha 410083, P.R. China* <br>
 *<sup>2</sup>School of Automation, Central South University, Changsha 410083, P.R. China* <br>
-*<sup>*</sup>Corresponding author: [yxliang@csu.edu.cn](https://scholar.google.com/citations?user=-7M32PIAAAAJ&hl=en)*
+*<sup>*</sup>Corresponding author: [yxliang@csu.edu.cn](https://scholar.google.com/citations?user=-7M32PIAAAAJ&hl=en)
 
 ### Methodology Overview
 <p align="center">
   <img src="assets/images/methodSAM2v6.png" alt="Methodology Overview" style="width:100%;">
 </p>
-*Overview of the SAM 2-driven self-training methodology for mammogram segmentation.*
+<p align="center">
+  <em>Overview of the SAM 2-driven self-training methodology for mammogram segmentation.</em>
+</p>
 
 <p align="center">
   <a href="assets/pdf/paper.pdf" class="button">Download PDF</a>
@@ -37,7 +39,7 @@ Accurate mammogram segmentation is crucial for breast cancer diagnosis. However,
 <p align="center">
   <img src="assets/images/Example2.png" alt="Example Preprocessing" style="width:80%;">
 </p>
-*Example from the mini-MIAS dataset. Left: Original mammogram with unwanted artifacts. Right: Final segmentation mask.*
+Example from the mini-MIAS dataset. Left: Original mammogram with unwanted artifacts. Right: Final segmentation mask.
 
 ### Qualitative Results
 <p align="center">
@@ -45,7 +47,7 @@ Accurate mammogram segmentation is crucial for breast cancer diagnosis. However,
   <img src="assets/images/mdb263_png_results.png" alt="Results Example 2" style="width:100%;"> <br>
   <img src="assets/images/mdb099_png_results.png" alt="Results Example 3" style="width:100%;">
 </p>
-*Comparison of mammogram segmentation results using different methods on images from the mini-MIAS dataset. (a) Original, (b) Ground Truth, (c) Otsu, (d) Manual Threshold, (e) Original SAM Point, (f) Our work.*
+Comparison of mammogram segmentation results using different methods on images from the mini-MIAS dataset. (a) Original, (b) Ground Truth, (c) Otsu, (d) Manual Threshold, (e) Original SAM Point, (f) Our work.
 
 ---
 
