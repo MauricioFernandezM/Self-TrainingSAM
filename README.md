@@ -4,7 +4,7 @@
 
 *<sup>1</sup>School of Computer Science, Central South University, Changsha 410083, P.R. China* <br>
 *<sup>2</sup>School of Automation, Central South University, Changsha 410083, P.R. China* <br>
-*<sup>*</sup>Corresponding author: [yxliang@csu.edu.cn](mailto:yxliang@csu.edu.cn)*
+*<sup>*</sup>Corresponding author: [yxliang@csu.edu.cn](https://scholar.google.com/citations?user=-7M32PIAAAAJ&hl=en)*
 
 ### Methodology Overview
 <p align="center">
