@@ -39,7 +39,9 @@ Accurate mammogram segmentation is crucial for breast cancer diagnosis. However,
 <p align="center">
   <img src="assets/images/Example2.png" alt="Example Preprocessing" style="width:80%;">
 </p>
-Example from the mini-MIAS dataset. Left: Original mammogram with unwanted artifacts. Right: Final segmentation mask.
+<p align="center">
+  <em>Example from the mini-MIAS dataset. Left: Original mammogram with unwanted artifacts. Right: Final segmentation mask.</em>
+</p>
 
 ### Qualitative Results
 <p align="center">
@@ -47,7 +49,9 @@ Example from the mini-MIAS dataset. Left: Original mammogram with unwanted artif
   <img src="assets/images/mdb263_png_results.png" alt="Results Example 2" style="width:100%;"> <br>
   <img src="assets/images/mdb099_png_results.png" alt="Results Example 3" style="width:100%;">
 </p>
-Comparison of mammogram segmentation results using different methods on images from the mini-MIAS dataset. (a) Original, (b) Ground Truth, (c) Otsu, (d) Manual Threshold, (e) Original SAM Point, (f) Our work.
+<p align="center">
+  <em>Comparison of mammogram segmentation results using different methods on images from the mini-MIAS dataset. (a) Original, (b) Ground Truth, (c) Otsu, (d) Manual Threshold, (e) Original SAM Point, (f) Our work.</em>
+</p>
 
 ---
 
