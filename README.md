@@ -1,10 +1,16 @@
-# {{SAM 2-Driven Self-Training for Mammogram Segmentation: Zero-Shot Mask Generation via Pseudo-Video}}
+# SAM 2-Driven Self-Training for Mammogram Segmentation: Zero-Shot Mask Generation via Pseudo-Video
 
-**Mauricio Fernandez M.$^{1}$, Yixiong Liang$^{1\ast}$, Christopher A. Cochran$^{2}$**
+**Mauricio Fernandez M.<sup>1</sup>, Yixiong Liang<sup>1*</sup>, Christopher A. Cochran<sup>2</sup>**
 
-*$^{1}$School of Computer Science, Central South University, Changsha 410083, P.R. China* <br>
-*$^{2}$School of Automation, Central South University, Changsha 410083, P.R. China* <br>
-*$^{\ast}$Corresponding author: yxliang@csu.edu.cn*
+*<sup>1</sup>School of Computer Science, Central South University, Changsha 410083, P.R. China* <br>
+*<sup>2</sup>School of Automation, Central South University, Changsha 410083, P.R. China* <br>
+*<sup>*</sup>Corresponding author: [yxliang@csu.edu.cn](mailto:yxliang@csu.edu.cn)*
+
+### Methodology Overview
+<p align="center">
+  <img src="assets/images/methodSAM2v6.png" alt="Methodology Overview" style="width:100%;">
+</p>
+*Overview of the SAM 2-driven self-training methodology for mammogram segmentation.*
 
 <p align="center">
   <a href="assets/pdf/paper.pdf" class="button">Download PDF</a>
@@ -27,19 +33,13 @@ Accurate mammogram segmentation is crucial for breast cancer diagnosis. However,
 
 ## Visual Overview
 
-### Example Preprocessing (Figure 1)
+### Example Preprocessing
 <p align="center">
   <img src="assets/images/Example2.png" alt="Example Preprocessing" style="width:80%;">
 </p>
 *Example from the mini-MIAS dataset. Left: Original mammogram with unwanted artifacts. Right: Final segmentation mask.*
 
-### Methodology Overview (Figure 2)
-<p align="center">
-  <img src="assets/images/methodSAM2v6.png" alt="Methodology Overview" style="width:100%;">
-</p>
-*Overview of the SAM 2-driven self-training methodology for mammogram segmentation.*
-
-### Qualitative Results (Figure 3)
+### Qualitative Results
 <p align="center">
   <img src="assets/images/mdb283_png_results.png" alt="Results Example 1" style="width:100%;"> <br>
   <img src="assets/images/mdb263_png_results.png" alt="Results Example 2" style="width:100%;"> <br>
@@ -57,6 +57,5 @@ SAM 2, Mammogram segmentation, Self-training, Largest Connected Element (LCE)
 ## Citation
 If you find this work useful in your research, please consider citing:
 ```bibtex
-@article{TBD
-}
+@article{TBD}
 
