@@ -16,7 +16,6 @@
 
 <p align="center">
   <a href="assets/pdf/paper.pdf" class="button">Download PDF</a>
-  <a href="https://github.com/MauricioFernandezM/Self-TrainingSAM" class="button">View Code on GitHub</a>
 </p>
 
 ---
