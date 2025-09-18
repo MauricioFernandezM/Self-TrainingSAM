@@ -1,10 +1,9 @@
 # SAM 2-Driven Self-Training for Mammogram Segmentation: Zero-Shot Mask Generation via Pseudo-Video
 
-**Mauricio Fernandez M.<sup>1</sup>, Yixiong Liang<sup>1*</sup>, Christopher A. Cochran<sup>2</sup>**
+**Mauricio Fernandez M.<sup>1</sup> ([mfernandez@csu.edu.cn](mailto:mfernandez@csu.edu.cn)), Yixiong Liang<sup>1*</sup> ([yxliang@csu.edu.cn](https://scholar.google.com/citations?user=-7M32PIAAAAJ&hl=en)), Christopher A. Cochran<sup>2</sup>**
 
 *<sup>1</sup>School of Computer Science, Central South University, Changsha 410083, P.R. China* <br>
 *<sup>2</sup>School of Automation, Central South University, Changsha 410083, P.R. China* <br>
-*<sup>*</sup>Corresponding author: [yxliang@csu.edu.cn](https://scholar.google.com/citations?user=-7M32PIAAAAJ&hl=en)
 
 <p align="center">
   <a href="https://ieeexplore.ieee.org/document/11084376" class="button"><b>Read the Paper (IEEE Xplore)</b></a> &nbsp;&nbsp;
