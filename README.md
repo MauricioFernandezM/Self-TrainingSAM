@@ -13,7 +13,7 @@
 
 ### Methodology Overview
 <p align="center">
-  <img src="assets/images/methodSAM2v6.png" alt="Methodology Overview" style="width:100%; background-color: white;">
+  <img src="assets/images/methodSAM2v6.jpg" alt="Methodology Overview" style="width:100%; background-color: white;">
 </p>
 <p align="center">
   <em>Overview of the SAM 2-driven self-training methodology for mammogram segmentation.</em>
